@@ -1,0 +1,9 @@
+.form_parent .form .input_field {
+  width: 200px;
+  height: 30px;
+  font-size: 20px;
+  text-align: center;
+  border: none;
+  border-bottom: 2px solid #221f1f;
+  outline: none;
+}

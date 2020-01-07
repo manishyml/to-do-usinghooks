@@ -1,0 +1,21 @@
+.todo {
+  padding: 10px;
+}
+.todo .text {
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: beige;
+  border-radius: 30px;
+}
+h3 {
+  margin: 0;
+}
+.todo .cross {
+  width: 20px;
+  font-size: 30px;
+  transform: rotate(45deg);
+  cursor: pointer;
+}
