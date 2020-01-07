@@ -16,6 +16,7 @@ function App() {
   const deleteTodo = index => {
     const arr = [...todos];
     arr.splice(index, 1);
+    //hey
     setTodos(arr);
   };
   return (
